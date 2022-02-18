@@ -1,0 +1,25 @@
+.app{
+  height: 100vh;
+  width: 100vw;
+  background: black;
+  color: white;
+  font-size: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.app .content {
+  text-align: center;
+}
+
+.app .content input {
+  padding: 16px 20px;
+  font-size: 48px;
+  max-width: 100%;
+  text-align: center
+}
+
+.previous {
+  color: pink
+}
